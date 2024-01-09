@@ -49,5 +49,5 @@ def plot_special_collatz_sequences(start, end):
 
 # Parameters
 start = 2
-end = 10000
+end = 1000
 plot_special_collatz_sequences(start, end)
